@@ -94,6 +94,7 @@ projects/
 **Poka Rithvik Chowdary**
 📧 [rithvik4400@gmail.com](mailto:rithvik4400@gmail.com)
 🔗 https://github.com/rithvik4400
+LinkedIn: https://www.linkedin.com/in/poka-rithvik-chowdary-035bb2312
 
 ---
 
